@@ -1,0 +1,26 @@
+#title{
+    padding: 10px;
+}
+#title img{
+    height: 60px;
+}
+#header{
+    background-color: #05445E;
+    color: #D4F1F4;
+}
+#content{
+    padding: 2% 10% 0 10%;
+    background-color: #D4F1F4;
+    height: 100%;
+}
+#menu img{
+    height: 60px;
+}
+.article{
+    padding: 2em;
+}
+#footer{
+    background-color: #189AB4;
+    color: #D4F1F4;
+    padding: 2%;
+}
